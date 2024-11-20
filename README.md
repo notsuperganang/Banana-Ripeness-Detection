@@ -1,7 +1,7 @@
 # 🍌 Banana Ripeness Detection System
 ## Computer Vision-based Banana Ripeness Analysis
 
-![Banana Ripeness Detection](https://github.com/yourusername/banana-ripeness-detection/banner.png)
+![Banana Ripeness Detection](banner.png)
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green.svg)](https://opencv.org/)
@@ -43,7 +43,7 @@ matplotlib>=3.3.0
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/banana-ripeness-detection.git
+git clone https://github.com/notsuperganang/Banana-Ripeness-Detection
 cd banana-ripeness-detection
 ```
 
@@ -161,10 +161,10 @@ If you use this project in your research, please cite:
 
 ```bibtex
 @software{banana_ripeness_detection,
-  author = {Your Name},
+  author = {Ganang Setyo Hadi},
   title = {Banana Ripeness Detection System},
   year = {2024},
-  url = {https://github.com/yourusername/banana-ripeness-detection}
+  url = {https://github.com/notsuperganang/Banana-Ripeness-Detection}
 }
 ```
 
@@ -172,13 +172,3 @@ If you use this project in your research, please cite:
 <p align="center">
   Made with ❤️ for 🍌
 </p>
-
-Anda dapat menyesuaikan README.md ini dengan:
-1. Username GitHub Anda
-2. Path gambar contoh
-3. Informasi kontak
-4. Nama universitas
-5. Detail lisensi
-6. Informasi spesifik proyek lainnya
-
-Apakah Anda ingin saya membantu menyesuaikan bagian tertentu?
