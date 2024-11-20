@@ -1,5 +1,5 @@
-# 🍌 Banana Ripeness Detection System
-## Computer Vision-based Banana Ripeness Analysis
+<h1 align="center">🍌 Banana Ripeness Detection System</h1>
+<h2 align="center">Computer Vision-based Banana Ripeness Analysis</h1>
 
 <p align="center">
   <img src="banner.png" alt="Banana Ripeness Detection System" width="800"/>
