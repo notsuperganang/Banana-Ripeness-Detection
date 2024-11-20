@@ -86,10 +86,10 @@ jupyter notebook Banana_Ripeness_Analysis.ipynb
 ## 📊 Example Results
 
 ### Input Image
-![Input Banana](img/example/pisang.jpg)
+![Input Banana](examples/input/pisang.jpg)
 
 ### Analysis Results
-![Analysis Results](img/result/output.png)
+![Analysis Results](examples/results/output.png)
 
 ```python
 Results:
