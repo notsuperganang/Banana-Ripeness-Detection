@@ -1,7 +1,9 @@
 # 🍌 Banana Ripeness Detection System
 ## Computer Vision-based Banana Ripeness Analysis
 
-![Banana Ripeness Detection](banner.png)
+<p align="center">
+  <img src="banner.png" alt="Banana Ripeness Detection System" width="800"/>
+</p>
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![OpenCV](https://img.shields.io/badge/OpenCV-4.5%2B-green.svg)](https://opencv.org/)
