@@ -88,7 +88,9 @@ jupyter notebook Banana_Ripeness_Analysis.ipynb
 ## 📊 Example Results
 
 ### Input Image
-![Input Banana](examples/input/pisang.jpg)
+<p align="center">
+  <img src="examples/input/pisang.jpg" alt="Banana Ripeness Detection System" width="800"/>
+</p>
 
 ### Analysis Results
 ![Analysis Results](examples/results/output.png)
