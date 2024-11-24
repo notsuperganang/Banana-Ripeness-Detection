@@ -124,8 +124,10 @@ Percentages:
 ```
 banana-ripeness-detection/
 ├── examples/
-│   ├── input.jpg
-│   └── results.jpg
+│   ├── input/
+|   |   └── pisang.jpg
+│   └── results/
+|       └── output.png
 ├── notebooks/
 │   └── Banana_Ripeness_Analysis.ipynb
 ├── requirements.txt
